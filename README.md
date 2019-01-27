@@ -1,8 +1,8 @@
 # Bare Bones React
 
-![Bare Bones the Mascot](https://raw.githubusercontent.com/chawk/bare-bones-react/master/logo.png)
+![Bare Bones the Mascot](https://github.com/chawk/bare_bones_react/blob/master/dist/img/logo.png?raw=true)
 
-**What you need to get started with React and EVERYTHING YOU DON'T**    
+**What you need to get started with React and EVERYTHING YOU DON'T**
 
 This is a really simple React project to get started quickly.  No linters, no formatting, coloring, minifiers, uglifiers, sass loaders, css loaders etc... Literally just enough to get React running so you can install those things as you like. 
 
