@@ -4,7 +4,7 @@
   "description": "A Material-UI tutorial series by Chris Hawkes",
   "main": "index.js",
   "scripts": {
-    "buildDev": "webpack-dev-server --mode development",
+    "dev": "webpack-dev-server --mode development",
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

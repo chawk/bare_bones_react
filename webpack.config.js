@@ -16,7 +16,6 @@ module.exports = {
             app.use('/static', express.static(path.resolve(__dirname, 'dist')))
         }
     },
-    watch: true,
     devtool: 'source-map',
     output: {
         filename: './js/[name].bundle.js',
