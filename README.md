@@ -1,5 +1,7 @@
 # Bare Bones React
 
+![Bare Bones the Mascot](https://raw.githubusercontent.com/chawk/bare-bones-react/master/logo.png)
+
 **What you need to get started with React and EVERYTHING YOU DON'T**    
 
 This is a really simple React project to get started quickly.  No linters, no formatting, coloring, minifiers, uglifiers, sass loaders, css loaders etc... Literally just enough to get React running so you can install those things as you like. 
@@ -8,7 +10,7 @@ What makes Bare Bones React powerful is that the environment is setup for both d
 
 ## Motiviation
 
-Simply put, create-react-app is too bloated for many people's liking.  I personally don't like a bunch of opinionated built in config files for unit testing and ES linting I didn't approve of.  Bare Bones React will not get in your way when getting started with React. 
+Create-react-app is too bloated for many people's liking.  We personally don't like a bunch of opinionated built in config files for unit testing and ES linting the end user hasn't even seen.  Bare Bones React will not get in your way when getting started with React.
 
 ## Documentation
 
