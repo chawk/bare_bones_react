@@ -1,7 +1,9 @@
+import "./sass/main.scss";
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Home from './pages/home';
 
 ReactDOM.render(
-    <h1>Bare Bones React Is Working!</h1>,
+    <Home></Home>,
     document.getElementById('root')
 )
