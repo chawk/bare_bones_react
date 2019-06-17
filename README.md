@@ -11,6 +11,7 @@ Bare Bones React provides a modern UI using SASS, Babel, Webpack and more.
 To get started simply download or clone the repository into a folder of your liking.  Make you you have NodeJS installed and run
 
 > `cd bare_bones_react`
+
 > `npm install`
 
 ### Development Build
