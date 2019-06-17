@@ -1,9 +1,5 @@
 # Bare Bones React
 
-![Bare Bones the Mascot](https://github.com/chawk/bare_bones_react/blob/master/dist/img/logo.png?raw=true)
-
-**What you need to get started with React and EVERYTHING YOU DON'T**
-
 Bare Bones React provides a modern UI using SASS, Babel, Webpack and more.  
 
 ## Documentation
