@@ -1,14 +1,25 @@
-# webdev2019
-Web development course is available on Udemy
+# Bare Bones React
 
-https://www.udemy.com/web-development-in-2019-from-start-to-finish/?couponCode=TENPERCENT
+![Bare Bones the Mascot](https://github.com/chawk/bare_bones_react/blob/master/dist/img/logo.png?raw=true)
 
-Chris Hawkes
+**What you need to get started with React and EVERYTHING YOU DON'T**
 
-YouTube: 
+Bare Bones React provides a modern UI using SASS, Babel, Webpack and more.  
 
-https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw
+## Documentation
 
-Twitter: 
+To get started simply download or clone the repository into a folder and open that folder in your terminal. 
 
-https://twitter.com/RealChrisHawkes?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+> `npm install`
+
+### Development Build
+
+Run the dev server
+
+> `npm run dev`
+
+### Production Build
+
+Build production files
+
+> `npm run prod`
