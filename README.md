@@ -19,3 +19,7 @@ Run the dev server
 Build production files
 
 > `npm run prod`
+
+### Credits
+
+Bare Bones React was created by <a href="http://bit.ly/chrishawkes">Chris Hawkes</a>.
