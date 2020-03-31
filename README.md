@@ -1,4 +1,4 @@
-# Bare Bones React
+![Bare Bones React](https://www.codehawke.com/img/bare_bones_react.png)
 
 Bare Bones React provides a modern UI using SASS, Babel, Webpack and more.  
 
