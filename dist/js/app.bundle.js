@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "85ca4674a89f77c0c78a";
+/******/ 	var hotCurrentHash = "bd17cae5fc437179f4ea";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -24347,9 +24347,9 @@ function (_React$Component) {
           width: "100%"
         },
         className: "text-center"
-      }, "Bare Bones React is a minimalist web framework created by Senior Software Engineer and YouTuber ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      }, "Bare Bones React is a minimalist web framework created by ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
         href: "http://bit.ly/chrishawkes"
-      }, "Chris Hawkes"), " from Washington D.C.  Built with Express, React, SASS, and Bootstrap!")));
+      }, "Chris Hawkes"), ".")));
     }
   }]);
 

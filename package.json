@@ -16,7 +16,7 @@
     "url": "git+https://github.com/chawk/webdev2019.git"
   },
   "author": "Chris Hawkes",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/chawk/webdev2019/issues"
   },

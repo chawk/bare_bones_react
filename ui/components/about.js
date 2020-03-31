@@ -6,8 +6,7 @@ export default class About extends React.Component {
             <div className="container">
                 <div className="row">
                     <p style={{ width: "100%" }} className="text-center">
-                        Bare Bones React is a minimalist web framework created by Senior Software Engineer
-                         and YouTuber <a href="http://bit.ly/chrishawkes">Chris Hawkes</a> from Washington D.C.  Built with Express, React, SASS, and Bootstrap!
+                        Bare Bones React is a minimalist web framework created by <a href="http://bit.ly/chrishawkes">Chris Hawkes</a>.
                     </p>
                 </div>
             </div>
